@@ -31,13 +31,13 @@
 
 <img align="right" width="330" src="https://raw.githubusercontent.com/abhisheknamdev/abhisheknamdev/master/coding.gif"/>
 
-🎓 I'm a **Computer Science student** currently in my final semester.
+🎓 I'm a **MSC Computer Science student** .
 
 💻 I enjoy building applications and solving real-world problems using **Java, Python and Web Technologies**.
 
 🤖 I'm particularly interested in **Artificial Intelligence, Machine Learning and Data Science**.
 
-🗄️ I also enjoy exploring **MongoDB, NoSQL databases and database architecture**.
+🗄️ I also enjoy exploring **MongoDB, NoSQL databases, SQL, PGSQL and database architecture**.
 
 🧠 I believe the best way to learn technology is by **building projects and solving problems**.
 
@@ -90,7 +90,7 @@
 |  💻 Development |       🤖 AI & Data      |  🗄️ Databases  |
 | :-------------: | :---------------------: | :-------------: |
 |       Java      | Artificial Intelligence |     MongoDB     |
-|      Python     |     Machine Learning    |      MySQL      |
+|      Python     |     Machine Learning    |      PgSQL      |
 |    JavaScript   |       Data Science      |      NoSQL      |
 |    HTML / CSS   |           LLMs          |      Neo4j      |
 | Web Development |      Pandas / NumPy     | Database Design |
@@ -198,7 +198,7 @@ Exploring software solutions for agricultural businesses, machinery sales, servi
 ║                         MY ROADMAP                           ║
 ╠══════════════════════════════════════════════════════════════╣
 ║                                                              ║
-║  🎓  Complete Computer Science Degree                       ║
+║  🎓  Complete BSc. Computer Science Degree                   ║
 ║                                                              ║
 ║  💻  Become a Strong Software Developer                      ║
 ║                                                              ║
@@ -231,7 +231,7 @@ Exploring software solutions for agricultural businesses, machinery sales, servi
 ↓
 **Database Design**
 ↓
-**NoSQL & Distributed Systems**
+**NoSQL,SQL & Distributed Systems**
 ↓
 **Artificial Intelligence**
 ↓
