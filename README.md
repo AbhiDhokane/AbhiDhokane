@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=ABHISHEK%20DHOKANE&fontSize=42&fontColor=0:FF6EC7,50:FFD93D,100:6EF7FF&animation=fadeIn&fontAlignY=38&desc=Building%20Ideas%20Into%20Technology%20%7C%20Always%20Learning&descSize=18&descColor=E8E8E8&descAlignY=60&descAlign=50" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=ABHISHEK%20DHOKANE&fontSize=42&fontColor=0:00F5FF,50:B026FF,100:FF00E4&animation=fadeIn&fontAlignY=38&desc=Building%20Ideas%20Into%20Technology%20%7C%20Always%20Learning&descSize=18&descColor=E8E8E8&descAlignY=60&descAlign=50" width="100%"/>
 <br>
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=90&section=header&text=Hey,%20I'm%20Abhishek%20Dhokane%20%F0%9F%91%8B&fontSize=32&fontColor=0:FF6EC7,50:FFD93D,100:6EF7FF&fontAlignY=55&animation=twinkling"/>
