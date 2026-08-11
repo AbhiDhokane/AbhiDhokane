@@ -8,15 +8,15 @@
 
 <br>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/abhisheknamdev">
 <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 &nbsp;
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:abhishekdhokane143@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 &nbsp;
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=abhisheknamdev&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS"/>
 
 <br><br>
 
@@ -168,13 +168,13 @@ Exploring software solutions for agricultural businesses, machinery sales, servi
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=abhisheknamdev&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhisheknamdev&layout=compact&theme=github_dark&hide_border=true"/>
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=github-dark-blue&hide_border=true" width="70%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=abhisheknamdev&theme=github-dark-blue&hide_border=true" width="70%"/>
 
 </div>
 
@@ -184,7 +184,7 @@ Exploring software solutions for agricultural businesses, machinery sales, servi
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" width="90%" alt="Contribution Snake"/>
+<img src="https://raw.githubusercontent.com/abhisheknamdev/abhisheknamdev/output/github-contribution-grid-snake.svg" width="90%" alt="Contribution Snake"/>
 
 </div>
 
@@ -262,10 +262,10 @@ Exploring software solutions for agricultural businesses, machinery sales, servi
 
 <div align="center">
 
-🏏 **Cricket**    •   
-🏐 **Volleyball**    •   
-🧩 **Problem Solving**    •   
-🤖 **AI**    •   
+🏏 **Cricket**    •   
+🏐 **Volleyball**    •   
+🧩 **Problem Solving**    •   
+🤖 **AI**    •   
 💻 **Programming**
 
 </div>
@@ -276,13 +276,13 @@ Exploring software solutions for agricultural businesses, machinery sales, servi
 
 <div align="center">
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/abhisheknamdev">
 <img src="https://img.shields.io/badge/GitHub-View%20My%20Work-181717?style=for-the-badge&logo=github"/>
 </a>
 
- 
+ 
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:abhishekdhokane143@gmail.com">
 <img src="https://img.shields.io/badge/Email-Let's%20Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
