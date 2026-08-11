@@ -3,9 +3,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=ABHISHEK%20DHOKANE&fontSize=42&fontColor=0:00F5FF,50:B026FF,100:FF00E4&animation=fadeIn&fontAlignY=38&desc=Building%20Ideas%20Into%20Technology%20%7C%20Always%20Learning&descSize=18&descColor=E8E8E8&descAlignY=60&descAlign=50" width="100%"/>
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=90&section=header&text=Hey,%20I'm%20Abhishek%20Dhokane%20%F0%9F%91%8B&fontSize=32&fontColor=0:FF6EC7,50:FFD93D,100:6EF7FF&fontAlignY=55&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=90&section=header&text=Hey,%20I'm%20Abhishek%20Dhokane%20%F0%9F%91%8B&fontSize=32&fontColor=0:00F5FF,50:B026FF,100:FF00E4&fontAlignY=55&animation=twinkling"/>
 
-### 💻 Computer Science Student • ☕ Developer • 🤖 AI Explorer • 📊 Data Science Enthusiast
+### 🎓 MSc Computer Science Student • 💻 Developer • 🤖 AI Explorer • 📊 Data Science Enthusiast
 
 <br>
 
@@ -13,11 +13,15 @@
 <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 &nbsp;
+<a href="https://www.linkedin.com/in/abhishek-dhokane-240964277">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
 <a href="mailto:abhishekdhokane143@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 &nbsp;
-<img src="https://komarev.com/ghpvc/?username=abhisheknamdev&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=AbhiDhokane&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS"/>
 
 <br><br>
 
@@ -29,15 +33,15 @@
 
 # 🧑‍💻 About Me
 
-<img align="right" width="330" src="https://raw.githubusercontent.com/abhisheknamdev/abhisheknamdev/master/coding.gif"/>
+<img align="right" width="330" src="https://raw.githubusercontent.com/AbhiDhokane/AbhiDhokane/master/coding.gif"/>
 
-🎓 I'm a **MSC Computer Science student** .
+🎓 I'm currently pursuing my **MSc in Computer Science**.
 
 💻 I enjoy building applications and solving real-world problems using **Java, Python and Web Technologies**.
 
 🤖 I'm particularly interested in **Artificial Intelligence, Machine Learning and Data Science**.
 
-🗄️ I also enjoy exploring **MongoDB, NoSQL databases, SQL, PGSQL and database architecture**.
+🗄️ I also enjoy exploring **MongoDB, NoSQL databases, SQL, PostgreSQL and database architecture**.
 
 🧠 I believe the best way to learn technology is by **building projects and solving problems**.
 
@@ -169,13 +173,13 @@ Exploring software solutions for agricultural businesses, machinery sales, servi
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=abhisheknamdev&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=AbhiDhokane&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhisheknamdev&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhiDhokane&layout=compact&theme=github_dark&hide_border=true"/>
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abhisheknamdev&theme=github-dark-blue&hide_border=true" width="70%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhiDhokane&theme=github-dark-blue&hide_border=true" width="70%"/>
 
 </div>
 
@@ -185,7 +189,7 @@ Exploring software solutions for agricultural businesses, machinery sales, servi
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/abhisheknamdev/abhisheknamdev/output/github-contribution-grid-snake.svg" width="90%" alt="Contribution Snake"/>
+<img src="https://raw.githubusercontent.com/AbhiDhokane/AbhiDhokane/output/github-contribution-grid-snake.svg" width="90%" alt="Contribution Snake"/>
 
 </div>
 
@@ -198,7 +202,7 @@ Exploring software solutions for agricultural businesses, machinery sales, servi
 ║                         MY ROADMAP                           ║
 ╠══════════════════════════════════════════════════════════════╣
 ║                                                              ║
-║  🎓  Complete BSc. Computer Science Degree                   ║
+║  🎓  Complete MSc Computer Science Degree                   ║
 ║                                                              ║
 ║  💻  Become a Strong Software Developer                      ║
 ║                                                              ║
@@ -231,7 +235,7 @@ Exploring software solutions for agricultural businesses, machinery sales, servi
 ↓
 **Database Design**
 ↓
-**NoSQL,SQL & Distributed Systems**
+**NoSQL, SQL & Distributed Systems**
 ↓
 **Artificial Intelligence**
 ↓
@@ -277,8 +281,14 @@ Exploring software solutions for agricultural businesses, machinery sales, servi
 
 <div align="center">
 
-<a href="https://github.com/abhisheknamdev">
+<a href="https://github.com/AbhiDhokane">
 <img src="https://img.shields.io/badge/GitHub-View%20My%20Work-181717?style=for-the-badge&logo=github"/>
+</a>
+
+ 
+
+<a href="https://www.linkedin.com/in/abhishek-dhokane-240964277">
+<img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
  
